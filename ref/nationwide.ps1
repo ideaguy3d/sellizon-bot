@@ -1,0 +1,1 @@
+Start-Process -FilePath C:\Program Files\nodejs\node.exe C:\Users\julius\Desktop\puppeteer\nationwide.js

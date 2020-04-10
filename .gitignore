@@ -1,0 +1,13 @@
+logs/*
+!.gitkeep
+bower_components/
+tmp
+.DS_Store
+.idea
+app/jspm_packages
+images
+picks
+julius.js
+txt-data
+settings.js
+node_modules

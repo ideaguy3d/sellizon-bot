@@ -1,0 +1,10 @@
+{
+    "someBrowsers": {
+        "google": "chrome",
+        "microsoft": "edge"
+    },
+    "postageClass": {
+        "first": "expensive",
+        "standard": "affordable"
+    }
+}
